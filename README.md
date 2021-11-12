@@ -18,4 +18,5 @@ con gusto te respondere, al igual que dudas y criticas
 [![testers](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/telegram.svg)](https://t.me/UserM01000)
 
 # GameSpace
-![Image text](https://github.com/UserM01000/GameSpace/blob/main/GameSpace.jpeg)
+<!--->
+![Image text]()
