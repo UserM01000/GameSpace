@@ -15,7 +15,7 @@ con gusto te respondere, al igual que dudas y criticas
 
 * Solo Funciona Para Windows
 ## Contact
-[![testers](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/telegram.svg)](https://t.me/UserM01000)
+[![testers](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/telegram.svg)](https://t.me/HackForAll1)
 
 # GameSpace
 ![Image text](https://github.com/UserM01000/GameSpace/blob/main/GameSpace.jpeg)
